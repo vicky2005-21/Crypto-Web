@@ -2,8 +2,16 @@
 
 installation process 
 
-command 1 : git clone 
+command 1 : git clone https://github.com/vicky2005-21/gta-final.git
+
+
 command 2 : cd gta_final
-command 3 : npm install 
+
+
+command 3 : npm install
+
+
 command 4 : npm run build 
+
+
 command 5 : npm start
