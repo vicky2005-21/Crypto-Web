@@ -2,7 +2,7 @@
 
 installation process 
 
-command 1 : git clone https://github.com/vicky2005-21/gta-final.git
+command 1 : git clone https://github.com/vicky2005-21/Crypto-Web.git
 
 
 command 2 : cd gta_final
