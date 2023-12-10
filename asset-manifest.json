@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Crypto-Web/static/css/main.b0534fe5.css",
+    "main.js": "/Crypto-Web/static/js/main.9a820d71.js",
+    "static/js/787.72bc8249.chunk.js": "/Crypto-Web/static/js/787.72bc8249.chunk.js",
+    "static/media/logo.svg": "/Crypto-Web/static/media/logo.2ce8e122c6cf18ca3c25b2b663398aab.svg",
+    "static/media/submit-icon.svg": "/Crypto-Web/static/media/submit-icon.e4339f5525903ab6758211da17e848b7.svg",
+    "static/media/pagination-arrow.svg": "/Crypto-Web/static/media/pagination-arrow.178c9e026e96d3157c68aa003413b7a7.svg",
+    "static/media/select-icon.svg": "/Crypto-Web/static/media/select-icon.32036b836d893fa33bc73cc38cf75d42.svg",
+    "index.html": "/Crypto-Web/index.html",
+    "static/media/search-icon.svg": "/Crypto-Web/static/media/search-icon.2495c6465338e239b370150f484a8d8a.svg",
+    "static/media/index.cjs": "/Crypto-Web/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.b0534fe5.css.map": "/Crypto-Web/static/css/main.b0534fe5.css.map",
+    "main.9a820d71.js.map": "/Crypto-Web/static/js/main.9a820d71.js.map",
+    "787.72bc8249.chunk.js.map": "/Crypto-Web/static/js/787.72bc8249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0534fe5.css",
+    "static/js/main.9a820d71.js"
+  ]
+}
